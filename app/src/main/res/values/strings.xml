@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeWork2</string>
+    <string name="abc">ABC :</string>
+    <string name="a_b_c">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</string>
+    <string name="result">Результат:</string>
+    <string name="clean">Очистить</string>
+    <string name="printLetterAlphabet_button">Вывести алфавит по одной букве</string>
+</resources>
